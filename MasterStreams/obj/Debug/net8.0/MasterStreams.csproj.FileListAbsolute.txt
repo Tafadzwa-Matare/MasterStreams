@@ -12,3 +12,4 @@ C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\refin
 C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.pdb
 C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.genruntimeconfig.cache
 C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\ref\MasterStreams.dll
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.sourcelink.json
