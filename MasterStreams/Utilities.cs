@@ -8,7 +8,7 @@ namespace MasterStreams
 {
     internal class Utilities
     {
-        public static void printInput(string input)
+        public static void printInput(Object input)
         {
 
             Console.WriteLine(input);
