@@ -6,17 +6,19 @@
         {
            
             Console.WriteLine("");
-            Console.WriteLine("Time Checker");
+            Utilities.printInput("Time CHecker");
 
             if (DateTime.Now.TimeOfDay > new TimeSpan(18, 0, 0))
             {
-                Console.WriteLine("Ava manheru veduwe");
+                Utilities.printInput("Ava manheru veduwe");
             }
             else {
 
-                Console.WriteLine("Nguva iripo nyora mitsara");
+                Utilities.printInput("Nguva iripo nyora mitsara");
             
             }
+
+
 
         }
     }
