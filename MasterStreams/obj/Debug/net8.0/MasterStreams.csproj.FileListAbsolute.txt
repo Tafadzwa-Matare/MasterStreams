@@ -1,0 +1,14 @@
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\bin\Debug\net8.0\MasterStreams.exe
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\bin\Debug\net8.0\MasterStreams.deps.json
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\bin\Debug\net8.0\MasterStreams.runtimeconfig.json
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\bin\Debug\net8.0\MasterStreams.dll
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\bin\Debug\net8.0\MasterStreams.pdb
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.AssemblyInfoInputs.cache
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.AssemblyInfo.cs
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.csproj.CoreCompileInputs.cache
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.dll
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\refint\MasterStreams.dll
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.pdb
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\MasterStreams.genruntimeconfig.cache
+C:\Users\mataret\source\repos\MasterStreams\MasterStreams\obj\Debug\net8.0\ref\MasterStreams.dll
