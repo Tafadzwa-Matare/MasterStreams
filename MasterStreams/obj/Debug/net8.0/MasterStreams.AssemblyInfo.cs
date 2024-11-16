@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterStreams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a49431cfa949fb596d74765e99c7d477bc4ea8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e22de491020e6481bd52b91f44476fc7a97b39")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterStreams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterStreams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
