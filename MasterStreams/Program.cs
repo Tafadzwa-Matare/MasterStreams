@@ -4,17 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-
-
-            
-            for (int a = 0; a < 10; a++)
-            {
-
-                Console.WriteLine(a);
-
-            }
-
+           
             Console.WriteLine("");
             Console.WriteLine("Time Checker");
 
